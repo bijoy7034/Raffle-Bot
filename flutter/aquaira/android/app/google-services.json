@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116860536172",
+    "project_id": "sweepsy-ea4d0",
+    "storage_bucket": "sweepsy-ea4d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116860536172:android:ac8503da3c17c6d35e1f49",
+        "android_client_info": {
+          "package_name": "com.example.aquaira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116860536172-1co3ujdfeqs749i1h050ee8bvp1l1qnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0c_ianag_S88BFU4JU-Cf_xwt06FgPHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116860536172-1co3ujdfeqs749i1h050ee8bvp1l1qnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
